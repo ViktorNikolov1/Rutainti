@@ -29,7 +29,10 @@ export function Footer() {
                     </div>
                 </div>
                 <div className="border-t border-gray-200 pt-8 text-center text-xs text-gray-400">
-                    Built with Next.js & MapLibre. Data from OpenStreetMap, UNESCO & USGS.
+                    <p>Built with Next.js & MapLibre. Data from OpenStreetMap, UNESCO & USGS.</p>
+                    <p className="mt-2 text-gray-500 font-medium">
+                        Developed by <span className="text-[#0f2e48]">Viktor Nikolov</span> | Contact: <a href="mailto:viktorgn4@gmail.com" className="hover:text-blue-600 transition-colors">viktorgn4@gmail.com</a>
+                    </p>
                 </div>
             </div>
         </footer>
