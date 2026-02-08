@@ -2,7 +2,7 @@ import { Navbar } from '@/components/Navbar';
 import { Footer } from '@/components/Footer';
 import { notFound } from 'next/navigation';
 import archetypes from '@/data/archetypes/archetypes.es.json';
-import { Theme, Archetype } from '@/lib/types';
+import { Theme, Archetype, RouteCard } from '@/lib/types';
 import routes from '@/data/routes/routes.es.json';
 import { ArchetypeDetailClient } from '@/components/archetypes/ArchetypeDetailClient';
 
