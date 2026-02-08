@@ -1,4 +1,4 @@
-# Cómo desplegar Himalaya Rutero en Vercel
+# Cómo desplegar Ecos del Himalaya en Vercel
 
 Para compartir tu aplicación con amigos, la forma más fácil y gratuita es usar **Vercel**.
 

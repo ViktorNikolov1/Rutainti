@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"], variable: '--font-inter' });
 const playfair = Playfair_Display({ subsets: ["latin"], variable: '--font-playfair' });
 
 export const metadata: Metadata = {
-    title: "Himalaya Rutero - Ruta Inti 2026",
+    title: "Ecos del Himalaya - Ruta Inti 2026",
     description: "Descubre tu arquetipo y ruta recomendada para la expedición.",
 };
 

@@ -1,4 +1,4 @@
-# Himalaya Rutero - Ruta Inti 2026
+# Ecos del Himalaya - Ruta Inti 2026
 
 Web App educativa para clasificar a los expedicionarios de Ruta Inti 2026 en arquetipos temáticos y sugerir itinerarios personalizados.
 

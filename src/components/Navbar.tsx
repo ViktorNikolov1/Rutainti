@@ -9,7 +9,7 @@ export function Navbar() {
                     <div className="bg-blue-900 p-2 rounded-lg group-hover:bg-amber-500 transition-colors duration-300">
                         <Compass className="h-6 w-6 text-white" />
                     </div>
-                    <span className="font-playfair font-bold text-2xl text-blue-900 tracking-tight">Himalaya Rutero</span>
+                    <span className="font-playfair font-bold text-2xl text-blue-900 tracking-tight">Ecos del Himalaya</span>
                 </Link>
 
                 <div className="hidden md:flex items-center gap-8">

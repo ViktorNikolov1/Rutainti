@@ -8,7 +8,7 @@ export const generatePDF = (archetype: Archetype, route: RouteCard | undefined, 
     // Header
     doc.setFontSize(22);
     doc.setTextColor(41, 128, 185); // Blue
-    doc.text("Himalaya Rutero - Ruta Inti 2026", 20, 20);
+    doc.text("Ecos del Himalaya - Ruta Inti 2026", 20, 20);
 
     doc.setFontSize(10);
     doc.setTextColor(100);
@@ -68,5 +68,5 @@ export const generatePDF = (archetype: Archetype, route: RouteCard | undefined, 
     doc.setFontSize(9);
     doc.text("Este documento es educativo y no sustituye normativa oficial.", 105, 280, { align: "center" });
 
-    doc.save(`HimalayaRutero_${archetype.id}.pdf`);
+    doc.save(`EcosDelHimalaya_${archetype.id}.pdf`);
 };

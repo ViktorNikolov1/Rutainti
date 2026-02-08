@@ -24,7 +24,7 @@ export default function Home() {
                     </div>
 
                     <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-8 tracking-tight leading-none drop-shadow-lg font-playfair animate-fade-in-up delay-100">
-                        Himalaya Rutero
+                        Ecos del Himalaya
                     </h1>
 
                     <p className="text-xl md:text-2xl text-blue-50 max-w-2xl mx-auto mb-12 font-light leading-relaxed animate-fade-in-up delay-200">
